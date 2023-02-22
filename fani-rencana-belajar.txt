@@ -7,6 +7,7 @@ Rencana Belajar Fani
   *Flexbox
   *Javascript Dasar
    ^Framework js Vue
+   ^Framework js Vanilla
 - Belajar di Channel lain Youtube
    ^Framework js React
 - jika mendapatkan prakerja akan belajar didicoding
