@@ -6,6 +6,6 @@ Rencana Belajar Fani
   *Bootstrap
   *Flexbox
   *Javascript Dasar
-- Belajar di Channel lain Youtube
+   ^Angular
 - jika mendapatkan prakerja akan belajar didicoding
 - Belajar di bootcamp Rakamin
