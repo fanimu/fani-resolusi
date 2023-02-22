@@ -1,0 +1,10 @@
+Rencana Belajar Fani
+
+- Belajar dari youtube channel WPU
+  *HTML
+  *CSS
+  *Bootstrap
+  *Flexbox
+  *Javascript Dasar
+- jika mendapatkan prakerja akan belajar didicoding
+- Belajar di bootcamp Rakamin
