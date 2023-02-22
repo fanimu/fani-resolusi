@@ -6,6 +6,11 @@ Rencana Belajar Fani
   *Bootstrap
   *Flexbox
   *Javascript Dasar
-   ^Angular
+   ^Framework js Angular
+   ^Framework js Vue
+   ^Framework js Vanilla
+   ^Framework js React
+- Belajar di Channel lain Youtube
 - jika mendapatkan prakerja akan belajar didicoding
 - Belajar di bootcamp Rakamin
+- Ambil Kelas di Builtwithangga
